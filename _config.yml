@@ -9,4 +9,4 @@ github_username:  concretedesign
 markdown: kramdown
 theme: minima
 
-exclude: ["node_modules", "gulpfile.js", "package.json"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "Gemfile.lock"]
