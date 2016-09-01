@@ -1,0 +1,12 @@
+title: Concrete Jekyll Boilerplate
+email: mc@concrete.ca
+description: Jekyll boilerplate with Gulp and CloudCannon integration
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://example.com" # the base hostname & protocol for your site
+github_username:  concretedesign
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+exclude: ["node_modules", "gulpfile.js", "package.json"]
